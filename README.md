@@ -1,3 +1,5 @@
+# Analyzing Likert Scale Responses: Distribution, Trends, and Outlier Detectio
+
 1. **Data Loading**:  
    - Loaded the dataset from an Excel file and inspected its structure to identify relevant columns.
 
